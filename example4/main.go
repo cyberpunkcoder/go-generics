@@ -1,5 +1,11 @@
 package main
 
+/*
+This example shows how generics can be used with strucst
+to define a generic struct that can be used with different
+types.
+*/
+
 import (
 	"fmt"
 
