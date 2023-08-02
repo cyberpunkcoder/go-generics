@@ -1,4 +1,4 @@
-module github.com/cyberpunkcoder/go-generics/example1
+module github.com/cyberpunkcoder/go-generics
 
 go 1.20
 
